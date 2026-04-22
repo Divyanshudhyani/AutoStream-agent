@@ -86,7 +86,7 @@ autostream-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Divyanshudhyani/AutoStream-agent.git
 cd autostream-agent
 ```
 
@@ -271,3 +271,4 @@ This project demonstrates:
 
 The focus was to build something **modular, production-oriented, and easy to extend**, while keeping the architecture simple enough to understand and maintain.
 # AutoStream-agent
+ 

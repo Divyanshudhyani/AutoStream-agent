@@ -1,0 +1,71 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that uses AI to automate and enhance video editing workflows, helping content creators publish faster and smarter."
+  },
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price_monthly": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution export",
+        "Basic auto-cut and trim tools",
+        "Standard templates",
+        "Email support"
+      ],
+      "best_for": "Individual creators just getting started"
+    },
+    {
+      "name": "Pro Plan",
+      "price_monthly": 79,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution export",
+        "AI-powered captions and subtitles",
+        "Advanced AI editing suite",
+        "Priority 24/7 support",
+        "Custom branding and watermark removal",
+        "Analytics dashboard"
+      ],
+      "best_for": "Professional creators and growing channels"
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "details": "No refunds are provided after 7 days from the date of purchase. Refund requests within the first 7 days will be processed within 5 business days."
+    },
+    {
+      "topic": "Support",
+      "details": "24/7 support is available exclusively for Pro plan subscribers. Basic plan users receive email support with a 1-2 business day response time."
+    },
+    {
+      "topic": "Cancellation",
+      "details": "Users can cancel their subscription at any time. Access continues until the end of the current billing period."
+    },
+    {
+      "topic": "Free Trial",
+      "details": "AutoStream offers a 7-day free trial on the Pro plan. No credit card required to start."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports export optimized for YouTube, Instagram, TikTok, and general MP4 formats."
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade at any time. You will be charged the prorated difference for the remaining days in your billing cycle."
+    },
+    {
+      "question": "Is AutoStream cloud-based?",
+      "answer": "Yes, AutoStream is fully cloud-based. You can access it from any browser without installing any software."
+    },
+    {
+      "question": "Does AutoStream support team collaboration?",
+      "answer": "Team collaboration features are available on the Pro plan, allowing multiple users to collaborate on projects."
+    }
+  ]
+}
